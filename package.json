@@ -22,7 +22,8 @@
     "@types/jest": "^26.0.9",
     "babel-jest": "^26.2.2",
     "jest": "^26.2.2",
-    "jest-cli": "^26.4.0"
+    "jest-cli": "^26.4.0",
+    "prettier": "^2.0.5"
   },
   "dependencies": {
     "axios": "^0.19.2",
