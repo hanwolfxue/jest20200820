@@ -1,0 +1,31 @@
+{
+  "name": "jest20200808",
+  "version": "1.0.0",
+  "description": "jest入门第一课",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanwolfxue/jest20200808.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanwolfxue/jest20200808/issues"
+  },
+  "homepage": "https://github.com/hanwolfxue/jest20200808#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@types/jest": "^26.0.9",
+    "babel-jest": "^26.2.2",
+    "jest": "^26.2.2",
+    "jest-cli": "^26.4.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "pkg-dir": "^4.2.0"
+  }
+}
